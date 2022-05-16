@@ -1,3 +1,3 @@
 # Geo-ICT-5.1
-Projects on GIS (Gesosp. Software Dev.)
+Projects on GIS (Geosp. Software Dev.)
 
